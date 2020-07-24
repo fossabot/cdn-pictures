@@ -1,2 +1,2 @@
 # ImgHsoting
-博客图床,houlai
+GitHub + Picgo + jsliver 搭建博客文章图床

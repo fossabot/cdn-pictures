@@ -1,2 +1,2 @@
 # ImgHsoting
-GitHub + Picgo + jsliver 搭建博客文章图床
+GitHub + Picgo + jsdelivr 搭建博客文章图床

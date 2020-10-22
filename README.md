@@ -1,2 +1,5 @@
-# ImgHsoting
-GitHub + Picgo + jsdelivr 搭建博客文章图床
+## cdn-pictures
+
+`cdn` 图片资源
+
+## https://cdn.jsdelivr.net/gh/wztlink1013/cdn-pictures@1.0.1/about/teacher.png
